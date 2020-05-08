@@ -1,0 +1,8 @@
+WARNING:root:some field is missing in the dataframe    result table  ...  _field _measurement
+0  _result     0  ...   close      tBTCUSD
+1  _result     1  ...    high      tBTCUSD
+2  _result     2  ...     low      tBTCUSD
+3  _result     3  ...    open      tBTCUSD
+4  _result     4  ...  volume      tBTCUSD
+
+[5 rows x 8 columns]-2020-05-08 02:58:17
